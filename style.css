@@ -38,7 +38,7 @@ body{
 }
 
 .profil h1{
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 2rem;
 }
 
@@ -51,7 +51,7 @@ body{
 }
 
 .social h1{
-    color: white;
+    color: rgb(0, 0, 0);
     font: 1.5rem;
 }
 
@@ -61,7 +61,7 @@ body{
 }
 
 .sosmed{
-    background-color: #FFFFFF;
+    background-color: #d59d9d;
     width: 250px;
     height: 4vh;
     display: flex;
